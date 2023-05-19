@@ -1,0 +1,1 @@
+The original code was taken from: https://github.com/bitbart/crypto-pub

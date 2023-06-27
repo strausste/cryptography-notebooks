@@ -1,0 +1,25 @@
+How to print: 
+
+In JupyterLab: File > Save and Export Notebok As... > HTML 
+
+For each .ipynb document export it as a HTML document from JupyterLab.
+The HTML file has to be in the same location as the .ipynb ones in order to have the HTML reading the images (and other media) correct path.
+
+Open the HTML file with the browser and export it (print) as PDF.
+
+Suggested print order:
+
+1) intro.ipynb
+2) shift.ipynb
+3) substitution.ipynb
+4) vigenere.ipynb
+5) OTP.ipynb
+6) bayes.ipynb
+7) perfect_secrecy.ipynb
+8) perfect_indistinguishability.ipynb
+9) computational_secrecy.ipynb
+10) pseudorandomness.ipynb
+11) modes_of_operation.ipynb
+12) MAC.ipynb
+13) hash_functions.ipynb
+14) public_key_cryptography.ipynb
